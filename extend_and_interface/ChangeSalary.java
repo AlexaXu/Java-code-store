@@ -12,7 +12,4 @@ public interface ChangeSalary {
 
     public void raiseSalary(double percent);
 
-    public static class change {
-        System.out.println
-    }
 }
