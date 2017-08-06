@@ -13,7 +13,7 @@ abstract public class Employee {
 	}
 
 	public Employee(double salary){
-		this("extend_and_interface.Employee NO." + idNext, salary);
+		this("Employee NO." + idNext, salary);
 	}
 
 	public Employee(){
